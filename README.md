@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/pratham-mangla-ba6110237"><img src="https://img.shields.io/badge/LinkedIn-Pratham%20Mangla-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:manglapratham@gmail.com"><img src="https://img.shields.io/badge/Email-manglapratham%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://corpvance.com"><img src="https://img.shields.io/badge/Corpvance-corpvance.com-0A66C2?style=flat" /></a>
   <a href="https://x.com/mangla_pratham"><img src="https://img.shields.io/badge/X-@mangla__pratham-000000?style=flat&logo=x&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Open%20to-Lead%20AI%20%2F%20FDE%20roles-2EA44F?style=flat" />
 </p>
@@ -12,6 +13,7 @@
 
 ### 🚀 About me
 - 🧠 **Lead AI Full Stack Developer @ Persist Ventures** (promoted · Employee Excellence Award) — leading 5+ cross-functional engineering teams
+- 🏢 **Co-founder @ [Corpvance](https://corpvance.com)** — enterprise technology consultancy for AI, software engineering, cloud and data
 - 📈 Shipped platforms serving **1,500+ active users** and **100+ live domains**; cut payment disputes by **90%** with AI verification
 - 🎓 **M.Tech CSE, IIIT Delhi** (CGPA 8.98) · B.Tech CSE (CGPA 8.9) · IEEE-published deep learning research
 - 📍 Bangalore, India · open to remote and relocation
