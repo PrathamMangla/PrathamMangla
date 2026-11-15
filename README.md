@@ -12,8 +12,8 @@
 ---
 
 ### 🚀 About me
-- 🧠 **Lead AI Full Stack Developer @ Persist Ventures** (promoted · Employee Excellence Award) — leading 5+ cross-functional engineering teams
-- 🏢 **Co-founder @ [Corpvance](https://corpvance.com)** — enterprise technology consultancy for AI, software engineering, cloud and data
+- 🧠 **Lead AI Full Stack Developer @ Persist Ventures** (promoted · Employee Excellence Award), leading 5+ cross-functional engineering teams
+- 🏢 **Co-founder @ [Corpvance](https://corpvance.com)**: enterprise technology consultancy for AI, software engineering, cloud and data
 - 📈 Shipped platforms serving **1,500+ active users** and **100+ live domains**; cut payment disputes by **90%** with AI verification
 - 🎓 **M.Tech CSE, IIIT Delhi** (CGPA 8.98) · B.Tech CSE (CGPA 8.9) · IEEE-published deep learning research
 - 📍 Bangalore, India · open to remote and relocation
@@ -24,10 +24,10 @@
 ### 🏗️ What I've built
 | Product | What I built | Impact |
 |---|---|---|
-| **818 Digital** — enterprise AI platform | AI assistant with unified search across email, files, CRM and calendars; Python/FastAPI/PostgreSQL backend with embeddings, vector search, RAG and multi-model LLM routing | 6+ sources integrated (Google Workspace, Egnyte, Salesforce…), **65% less context switching**, **40% faster** query responses |
-| **[ChainReach](https://chainreach.ai)** — Web3 + AI verification | React/FastAPI platform with automated escrow lifecycle (Draft → Funded → Verified → Paid), AI post validation and reputation scoring | **90% fewer payment disputes**, **70% better** verification accuracy across 100+ campaigns |
-| **[Vyspar](https://vyspar.org)** — AI medical collaboration | React/Python/PostgreSQL platform for healthcare professionals: collectives, AI research discussions, calendar integrations, analytics | **1,500+ active users**, 10K+ feed interactions |
-| **StoneCanyon** — white-label AI chatbots | Centralized chatbot infrastructure with model management, session analytics and production monitoring | Live on **100+ domains** |
+| **818 Digital**: enterprise AI platform | AI assistant with unified search across email, files, CRM and calendars; Python/FastAPI/PostgreSQL backend with embeddings, vector search, RAG and multi-model LLM routing | 6+ sources integrated (Google Workspace, Egnyte, Salesforce…), **65% less context switching**, **40% faster** query responses |
+| **[ChainReach](https://chainreach.ai)**: Web3 + AI verification | React/FastAPI platform with automated escrow lifecycle (Draft → Funded → Verified → Paid), AI post validation and reputation scoring | **90% fewer payment disputes**, **70% better** verification accuracy across 100+ campaigns |
+| **[Vyspar](https://vyspar.org)**: AI medical collaboration | React/Python/PostgreSQL platform for healthcare professionals: collectives, AI research discussions, calendar integrations, analytics | **1,500+ active users**, 10K+ feed interactions |
+| **StoneCanyon**: white-label AI chatbots | Centralized chatbot infrastructure with model management, session analytics and production monitoring | Live on **100+ domains** |
 | **Driver Drowsiness Detection** | CNN-based deep learning model | Published at **IEEE ICAC3N 2023** |
 
 ### 🛠️ Tech stack
@@ -53,17 +53,9 @@
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-### 📌 Public projects
-| Project | What it is | Stack |
-|---|---|---|
-| [Interview Platform](https://github.com/PrathamMangla/Interview_Platform) | Full-stack app to share and browse interview experiences — auth, CRUD, search & filter | React, Tailwind, React Query, Node/Express, MongoDB, JWT |
-| [Retail Pulse Service](https://github.com/PrathamMangla/Retail-pulse-service) | Go backend that processes retail store images via a job queue, Dockerized | Go, Docker |
-| [Nookly](https://github.com/PrathamMangla/Nookly) | Care desk for shifts, notes, flags and incidents | JavaScript |
-| [Follopolis](https://github.com/PrathamMangla/follopolis) | 3D city website where every Instagram follower gets a home | JavaScript, 3D web |
-
 ### 🏅 Also
 - Google Professional Certificates: Data Analytics, Python Automation, AI Essentials · IBM Full Stack Development
-- Teaching Assistant at IIIT Delhi — Analysis & Design of Algorithms (CSE222), Mathematics-I (MTH100)
+- Teaching Assistant at IIIT Delhi for Analysis & Design of Algorithms (CSE222) and Mathematics-I (MTH100)
 
 ---
 <p align="center"><b>Hiring for AI full-stack or forward-deployed roles? <a href="mailto:manglapratham@gmail.com">manglapratham@gmail.com</a> · <a href="https://www.linkedin.com/in/pratham-mangla-ba6110237">LinkedIn</a></b></p>
