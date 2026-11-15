@@ -44,11 +44,5 @@ I take AI and data products from idea to production — talking to users, design
 | [Retail Pulse Service](https://github.com/PrathamMangla/Retail-pulse-service) | Scalable Go backend that processes retail store images via a job queue, Dockerized | Go, Docker |
 | Zenotrip *(private)* | AI trip planner that generates interactive itineraries | TypeScript, Next.js, LLMs |
 
-### 📊 GitHub stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=PrathamMangla&show_icons=true&count_private=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamMangla&layout=compact&hide_border=true" />
-</p>
-
 ---
 <p align="center"><b>Hiring for AI / full-stack / forward-deployed roles? Email me at <a href="mailto:manglapratham@gmail.com">manglapratham@gmail.com</a></b></p>
